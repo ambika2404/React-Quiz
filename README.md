@@ -1,1 +1,2 @@
 # React-Quiz
+This code represents a React application for a quiz. It displays multiple-choice questions with radio buttons for selecting answers. Users can submit their answers, and upon submission, the correct answers are revealed. The application calculates and displays the user's score based on the selected answers. Users also have the option to restart the quiz to try again. The state management is done using React's useState hook, and the application dynamically renders components based on user interactions and state changes.
